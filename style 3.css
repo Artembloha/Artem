@@ -1,0 +1,23 @@
+body{background-image:url(https://img5.goodfon.ru/wallpaper/nbig/0/b1/zatemnenie-sinii-osvetlenie-blue-fon-fon.jpg)};
+h1{text-align:center}	
+.menu {
+ box-shadow: 4px 5px 15px black;
+ background-color: black;
+}
+.menu li {
+ display: inline-block;
+ padding: 20px;
+ color: white;
+}
+.menu li:hover{
+ background-color: white;
+ color: black;}
+ .menu{text-align:center;
+background-color:blue:;
+height:60px:;
+color:white;
+margin-bottom:40px;}
+.menu{background-color:darkblue
+color:white;}
+.menu li{display:inline-block;
+padding:20px 70px}
